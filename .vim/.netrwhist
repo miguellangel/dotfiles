@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/miguel/.config/nvim'
+let g:netrw_dirhist_5='/etc/systemd/user/default.target.wants'
+let g:netrw_dirhist_4='/home/miguel'
+let g:netrw_dirhist_3='/home/miguel/.vim'
+let g:netrw_dirhist_2='/home/miguel/.config/lapce-stable'
+let g:netrw_dirhist_1='/var/lib/iwd'
